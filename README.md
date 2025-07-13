@@ -1,7 +1,7 @@
-# sampling-ai
+# sapling-ai
 Fastest, Easiest and Cheapest way to learn AI
 
-The Goal of sampling ai is to:
+The Goal of sapling ai is to:
   -- Train students and professionals on latest innovation in the domain of AI
   -- study, review and write papers on AI domains.
   -- debate, discuss and prepare on ai topics.
